@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.projectvr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\miskm\\ProjectVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "C:\\Users\\Stude\\Desktop\\GrenitionGit\\VRtests\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "ProjectVR [Testing]"
